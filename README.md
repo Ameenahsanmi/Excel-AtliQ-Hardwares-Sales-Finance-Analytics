@@ -8,7 +8,7 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Ameenahsanmi/Excel-AtliQ-Hardwares-Sales-Finance-Analytics/blob/main/market%20perfomance%20vs%20Target.pdf)_
 
-   **3.** Created a _[comprehensive report of Sales](https://github.com/Ameenahsanmi/Excel-AtliQ-Hardwares-Sales-Finance-Analytics/blob/main/market%20perfomance%20vs%20Target.pdf)_ which 
+   **3.** Created a _[comprehensive report of Sales](https://github.com/Ameenahsanmi/Excel-AtliQ-Hardwares-Sales-Finance-Analytics/blob/main/Total_Sales_Report.pdf)_ which 
  also gives a glance of Top 10 products in terms of growth percentage and division level report
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -21,9 +21,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Ameenahsanmi/Excel-AtliQ-Hardwares-Sales-Finance-Analytics/blob/main/P%20%26%20L%20report%20%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Ameenahsanmi/Excel-AtliQ-Hardwares-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Ameenahsanmi/Excel-AtliQ-Hardwares-Sales-Finance-Analytics/blob/main/P%26L%20for%20Market.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
